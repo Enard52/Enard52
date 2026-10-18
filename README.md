@@ -30,11 +30,11 @@ Maintaining high-quality, free, open-source projects requires time, effort, and 
 
 ### 🤝 Sponsorship Tiers & Benefits
 
-| Tier | Price | Perks |
+| Tier | Monthly or One-Time | Perks |
 | :--- | :--- | :--- |
-| ☕ **Supporter** | **$5 / month** | Official **Sponsor badge** on your GitHub profile & my gratitude! |
-| 🚀 **Backer** | **$25 / month** | **Your name or company logo** featured in project README files. |
-| 🏢 **Gold / Enterprise** | **$100 / month** | **Logo on project website/README**, plus **fast-tracked issue & bug triage**. |
+| ☕ **Coffee / Supporter** | **$5** (Monthly or One-Time) | Official **Sponsor badge** on your GitHub profile & direct support! |
+| 🚀 **Backer / Booster** | **$25** (Monthly or One-Time) | **Your name or logo** featured in project README files. |
+| 🏢 **Champion / Enterprise** | **$100** (Monthly or One-Time) | **Logo placement** + **fast-tracked issue, bug & feature priority**. |
 
 👉 **[Click here to sponsor on GitHub](https://github.com/sponsors/Enard52)**
 
