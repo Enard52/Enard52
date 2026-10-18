@@ -1,49 +1,110 @@
-# Hi there, I'm Enard! 👋
+<div align="center">
+
+# Hi there, I'm Ensar (Enard) 👋
+### Full-Stack Developer & Open-Source Creator 🚀
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Enard52)
-[![GitHub Follow](https://img.shields.io/github/followers/Enard52?label=Follow&style=for-the-badge&logo=github)](https://github.com/Enard52)
+[![GitHub Followers](https://img.shields.io/github/followers/Enard52?label=Followers&style=for-the-badge&logo=github&color=24292e)](https://github.com/Enard52)
+[![Profile Views](https://komarev.com/ghpvc/?username=Enard52&color=blueviolet&style=for-the-badge)](https://github.com/Enard52)
 
-I am an open-source software developer building developer tools, payment integrations, AI agent utilities, and modern web applications.
+<p align="center">
+  Building reliable developer tools, AI agent architectures, payment systems, and modern web applications.
+</p>
 
----
-
-### 💖 Support My Open-Source Work
-
-Maintaining high-quality, free, open-source projects requires time, effort, and infrastructure resources. By sponsoring me on GitHub Sponsors, you directly empower me to:
-
-- 🚀 Actively maintain and release new features for my public projects.
-- ⚡ Prioritize your requested features, bug fixes, and issues.
-- 🛠️ Cover server, CI/CD, and development infrastructure costs.
-
-👉 **[Become a Sponsor on GitHub](https://github.com/sponsors/Enard52)**
+</div>
 
 ---
 
-### 🌟 Featured Projects
+### 👨‍💻 About Me
 
-- 💬 **[ghrew](https://github.com/Enard52/ghrew)** — Your crew on GitHub. Free, open-source conversations for people and agents.
-- 💳 **[better-payment](https://github.com/Enard52/better-payment)** — Unified, type-safe payment gateway for Node.js & TypeScript (iyzico, PayTR, Parampos, Akbank).
-- 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** — Trust layer for market data: validate, score, and explain anomalies in OHLCV & fundamentals.
-- 📝 **[planning-with-files](https://github.com/Enard52/planning-with-files)** — Persistent file-based planning for AI coding agents and long-running tasks.
+- 🔭 **Current Focus:** Building AI agent workflows, MCP servers, and developer tooling.
+- 💳 **Fintech & Payments:** Author of unified payment gateway solutions for Turkish providers (iyzico, PayTR, Parampos).
+- 💬 **Ask me about:** `TypeScript`, `Node.js`, `Python`, `AI Agents / MCP`, `Nuxt / Vue`, and `REST/GraphQL APIs`.
+- ⚡ **Philosophy:** Clean architecture, type-safety, and crash-proof open-source tools.
+- 📍 **Location:** Türkiye 🇹🇷
 
 ---
 
-### 🤝 Sponsorship Tiers & Benefits
+### 🛠️ Tech Stack & Tools
 
-| Tier | Monthly or One-Time | Perks |
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <br />
+  <!-- Frameworks & Runtimes -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2D8?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <br />
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 🌟 Featured Open-Source Projects
+
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| ☕ **Coffee / Supporter** | **$5** (Monthly or One-Time) | Official **Sponsor badge** on your GitHub profile & direct support! |
-| 🚀 **Backer / Booster** | **$25** (Monthly or One-Time) | **Your name or logo** featured in project README files. |
-| 🏢 **Champion / Enterprise** | **$100** (Monthly or One-Time) | **Logo placement** + **fast-tracked issue, bug & feature priority**. |
+| 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source conversations for people and AI agents. | `Nuxt 4` `Vue 3` `Cloudflare` |
+| 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TypeScript (iyzico, PayTR, Parampos, Akbank). | `TypeScript` `Node.js` |
+| 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` |
+| 📝 **[planning-with-files](https://github.com/Enard52/planning-with-files)** | Persistent file-based planning for AI coding agents and long-running tasks. | `Python` `Agentic AI` |
 
-👉 **[Click here to sponsor on GitHub](https://github.com/sponsors/Enard52)**
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Enard's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 💖 Sponsor My Work
+
+Maintaining open-source software takes substantial time, dedication, and server costs. By becoming a sponsor, you directly accelerate the development of free developer tools!
+
+🎯 **Current Goal:** `$100 / month` to dedicate 10+ hours/week to library maintenance & community feature requests.
+
+| Tier | Option | Benefits & Perks |
+| :--- | :--- | :--- |
+| ☕ **Supporter / Coffee** | **$5** (Monthly or One-time) | Official **Sponsor Badge** on your GitHub profile & my endless gratitude! |
+| 🚀 **Backer / Booster** | **$25** (Monthly or One-time) | **Your name or logo** listed as a sponsor in project READMEs. |
+| 🏢 **Champion / Enterprise** | **$100** (Monthly or One-time) | **Logo on README/website** + **Fast-tracked issue, bug & feature priority**. |
+
+<div align="center">
+  <br />
+  <a href="https://github.com/sponsors/Enard52">
+    <img src="https://img.shields.io/badge/Support%20Enard%20on%20GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Enard on GitHub Sponsors" />
+  </a>
+</div>
 
 ---
 
 ### 🏆 Hall of Sponsors
 
-A special thank you to everyone supporting my work!
+A huge thank you to everyone who supports my open-source projects!
 
 <!-- sponsors-start -->
-*Be the first sponsor to support my open-source journey and have your avatar or company logo featured here!*
+*Be the first sponsor to support my journey and have your avatar or company logo featured here!*
 <!-- sponsors-end -->
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/Enard52">Ensar (Enard)</a></sub>
+</div>
