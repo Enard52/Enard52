@@ -32,9 +32,18 @@ Maintaining high-quality, free, open-source projects requires time, effort, and 
 
 | Tier | Price | Perks |
 | :--- | :--- | :--- |
-| ☕ **Buy Me a Coffee** | **$5 / month** | A big thank you! Direct support for open source development. |
-| 🚀 **Supporter** | **$15 / month** | Your name/avatar listed as a sponsor in project READMEs. |
-| ⭐ **Priority Support** | **$50 / month** | Fast-tracked issue triage, PR review, and direct technical contact. |
-| 🏢 **Silver Sponsor** | **$100 / month** | Your company logo on project READMEs + prioritized feature requests. |
+| ☕ **Supporter** | **$5 / month** | Official **Sponsor badge** on your GitHub profile & my gratitude! |
+| 🚀 **Backer** | **$25 / month** | **Your name or company logo** featured in project README files. |
+| 🏢 **Gold / Enterprise** | **$100 / month** | **Logo on project website/README**, plus **fast-tracked issue & bug triage**. |
 
-👉 Ready to support? Click here: **[github.com/sponsors/Enard52](https://github.com/sponsors/Enard52)**
+👉 **[Click here to sponsor on GitHub](https://github.com/sponsors/Enard52)**
+
+---
+
+### 🏆 Hall of Sponsors
+
+A special thank you to everyone supporting my work!
+
+<!-- sponsors-start -->
+*Be the first sponsor to support my open-source journey and have your avatar or company logo featured here!*
+<!-- sponsors-end -->
