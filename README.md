@@ -4,8 +4,8 @@
 ### Full-Stack Developer & Open-Source Creator 🚀
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Enard52)
-[![GitHub Followers](https://img.shields.io/github/followers/Enard52?label=Followers&style=for-the-badge&logo=github&color=24292e)](https://github.com/Enard52)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEnard52&query=%24.public_repos&label=Repositories&color=blueviolet&style=for-the-badge&logo=git&logoColor=white)](https://github.com/Enard52?tab=repositories)
+[![GitHub Followers](https://img.shields.io/badge/Followers-1-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enard52?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-94-blueviolet?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Enard52?tab=repositories)
 [![Profile Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEnard52&label=Visitors&labelColor=%2324292e&countColor=%230969da&style=for-the-badge)](https://github.com/Enard52)
 
 <p align="center">
