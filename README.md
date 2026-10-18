@@ -57,20 +57,22 @@
 
 ### 🌟 Featured Open-Source Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source conversations for people and AI agents. | `Nuxt 4` `Vue 3` `Cloudflare` |
-| 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TypeScript (iyzico, PayTR, Parampos, Akbank). | `TypeScript` `Node.js` |
-| 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` |
-| 📝 **[planning-with-files](https://github.com/Enard52/planning-with-files)** | Persistent file-based planning for AI coding agents and long-running tasks. | `Python` `Agentic AI` |
+| Project | Description | Tech Stack | Live Stars |
+| :--- | :--- | :--- | :---: |
+| 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source conversations for people and AI agents. | `Nuxt 4` `Vue 3` | [![Stars](https://img.shields.io/github/stars/Enard52/ghrew?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/ghrew/stargazers) |
+| 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TypeScript (iyzico, PayTR, Parampos). | `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/Enard52/better-payment?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/better-payment/stargazers) |
+| 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` | [![Stars](https://img.shields.io/github/stars/Enard52/market-data-sanity-checker?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/market-data-sanity-checker/stargazers) |
+| 📝 **[planning-with-files](https://github.com/Enard52/planning-with-files)** | Persistent file-based planning for AI coding agents and long-running tasks. | `Python` `Agentic AI` | [![Stars](https://img.shields.io/github/stars/Enard52/planning-with-files?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/planning-with-files/stargazers) |
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Enard's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Enard's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Enard52&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
