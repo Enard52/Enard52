@@ -59,6 +59,7 @@
 
 | Project | Description | Tech Stack | Live Stars |
 | :--- | :--- | :--- | :---: |
+| 🤖 **[Hivora](https://github.com/Enard52/Hivora)** | Multi-AI orchestrator platform for Claude Code, Cursor & GitHub Copilot with MCP. | `Electron` `TypeScript` `MCP` | [![Stars](https://img.shields.io/github/stars/Enard52/Hivora?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/Hivora/stargazers) |
 | 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source conversations for people and AI agents. | `Nuxt 4` `Vue 3` | [![Stars](https://img.shields.io/github/stars/Enard52/ghrew?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/ghrew/stargazers) |
 | 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TypeScript (iyzico, PayTR, Parampos). | `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/Enard52/better-payment?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/better-payment/stargazers) |
 | 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` | [![Stars](https://img.shields.io/github/stars/Enard52/market-data-sanity-checker?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/market-data-sanity-checker/stargazers) |
