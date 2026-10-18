@@ -5,7 +5,8 @@
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Enard52)
 [![GitHub Followers](https://img.shields.io/github/followers/Enard52?label=Followers&style=for-the-badge&logo=github&color=24292e)](https://github.com/Enard52)
-[![Profile Views](https://komarev.com/ghpvc/?username=Enard52&color=blueviolet&style=for-the-badge)](https://github.com/Enard52)
+[![Repositories](https://img.shields.io/badge/Repositories-90%2B-blueviolet?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Enard52?tab=repositories)
+[![Profile Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEnard52&label=Visitors&labelColor=%2324292e&countColor=%230969da&style=for-the-badge)](https://github.com/Enard52)
 
 <p align="center">
   Building reliable developer tools, AI agent architectures, payment systems, and modern web applications.
@@ -21,7 +22,7 @@
 - 💳 **Fintech & Payments:** Author of unified payment gateway solutions for Turkish providers (iyzico, PayTR, Parampos).
 - 💬 **Ask me about:** `TypeScript`, `Node.js`, `Python`, `AI Agents / MCP`, `Nuxt / Vue`, and `REST/GraphQL APIs`.
 - ⚡ **Philosophy:** Clean architecture, type-safety, and crash-proof open-source tools.
-- 📍 **Location:** Türkiye 🇹🇷
+- 📍 **Location:** Türkiye
 
 ---
 
