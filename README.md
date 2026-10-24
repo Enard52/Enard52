@@ -128,7 +128,7 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :---: | :---: |
-| 🤖 **[Hivora](https://github.com/Enard52/Hivora)** | Multi-AI orchestrator platform for Claude Code, Cursor & Copilot with MCP integration. | `Electron` `TypeScript` `MCP` | [![Stars](https://img.shields.io/github/stars/Enard52/Hivora?style=flat-square&color=8B5CF6)](https://github.com/Enard52/Hivora) |
+| 🛡️ **[AynOps](https://github.com/Enard52/AynOps)** | Open-source Model Context Protocol (MCP) server providing real-time AI security reconnaissance. | `TypeScript` `MCP` `Security` | [![Stars](https://img.shields.io/github/stars/Enard52/AynOps?style=flat-square&color=8B5CF6)](https://github.com/Enard52/AynOps) |
 | 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source collaborative hub for people and AI agents. | `Nuxt 4` `Vue 3` `Vite` | [![Stars](https://img.shields.io/github/stars/Enard52/ghrew?style=flat-square&color=8B5CF6)](https://github.com/Enard52/ghrew) |
 | 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TS: iyzico, PayTR, Parampos and Akbank. | `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/Enard52/better-payment?style=flat-square&color=8B5CF6)](https://github.com/Enard52/better-payment) |
 | 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` | [![Stars](https://img.shields.io/github/stars/Enard52/market-data-sanity-checker?style=flat-square&color=8B5CF6)](https://github.com/Enard52/market-data-sanity-checker) |
@@ -139,7 +139,7 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=8b5cf6&icon_color=a855f7" alt="Enard's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=false&hide_border=true&include_all_commits=true&title_color=8b5cf6&icon_color=a855f7" alt="Enard's GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=compact&theme=tokyonight&hide_border=true&title_color=8b5cf6" alt="Top Languages" width="49%" />
   <br /><br />
   <img src="https://streak-stats.demolab.com/?user=Enard52&theme=tokyonight&hide_border=true&ring=8b5cf6&fire=a855f7" alt="GitHub Streak" width="98%" />
