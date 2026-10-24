@@ -70,21 +70,12 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Ensar (Enard)
-role: Full-Stack Developer & AI Systems Builder
-location: Türkiye 🇹🇷
-passions:
-  - Designing autonomous AI agents & Model Context Protocol (MCP) ecosystems
-  - Unified fintech architectures & modern payment pipelines
-  - Building crash-proof, type-safe open source libraries
-philosophy: "Clean architecture, resilient automation, and zero friction."
-```
-
-- 🔭 **Current Focus:** AI agent orchestration with MCP, multi-model platforms, and developer automation.
+- 🔭 **Current Focus:** Building autonomous AI agent architectures, Model Context Protocol (MCP) tooling, and developer infrastructure.
 - 💳 **Fintech & Payments:** Author of unified payment gateway solutions for Turkish providers (iyzico, PayTR, Parampos).
-- 💬 **Ask me about:** `TypeScript`, `Node.js`, `Python`, `Nuxt / Vue 3`, `FastAPI`, `MCP Servers`, and `Distributed Workflows`.
-- ⚡ **Fun Fact:** Active contributor across global open-source ecosystems with over 1,000 merged PRs!
+- 💬 **Ask Me About:** `TypeScript`, `Node.js`, `Python`, `Nuxt / Vue 3`, `FastAPI`, `MCP Servers`, and `Distributed Workflows`.
+- ⚡ **Engineering Philosophy:** Clean architecture, type-safety, resilient automation, and crash-proof open-source software.
+- 🌍 **Location:** Türkiye 🇹🇷
+- 🚀 **Milestone:** Prolific open-source contributor with **1,000+ Merged Pull Requests** across active repositories!
 
 ---
 
