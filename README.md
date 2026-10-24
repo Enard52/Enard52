@@ -1,80 +1,149 @@
 <div align="center">
 
-# Hi there, I'm Ensar (Enard) 👋
-### Full-Stack Developer & Open-Source Creator 🚀
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=220&section=header&text=Ensar%20(Enard)&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Agent%20Architect%20%7C%20Open-Source%20Creator&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Enard52)
-[![GitHub Followers](https://img.shields.io/badge/Followers-1-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enard52?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-94-blueviolet?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Enard52?tab=repositories)
-[![Profile Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEnard52&label=Visitors&labelColor=%2324292e&countColor=%230969da&style=for-the-badge)](https://github.com/Enard52)
+  <!-- Animated Typing Subtitle -->
+  <p align="center">
+    <a href="https://github.com/Enard52">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Open-Source+Creator;AI+Agent+%26+MCP+Tooling+Architect;Fintech+%26+Payment+Gateway+Engineer;1%2C000%2B+Merged+Pull+Requests+Completed" alt="Typing SVG" />
+    </a>
+  </p>
 
-<p align="center">
-  Building reliable developer tools, AI agent architectures, payment systems, and modern web applications.
-</p>
+  <!-- Quick Badges -->
+  <p align="center">
+    <a href="https://github.com/sponsors/Enard52">
+      <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+    </a>
+    <a href="https://github.com/Enard52?tab=repositories">
+      <img src="https://img.shields.io/badge/Public%20Repos-100%2B-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+    </a>
+    <a href="https://github.com/Enard52?tab=followers">
+      <img src="https://img.shields.io/badge/Followers-Connect-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    </a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEnard52&label=Profile%20Views&labelColor=%231e1e2e&countColor=%238b5cf6&style=for-the-badge" alt="Visitors" />
+  </p>
 
+</div>
+
+---
+
+### 🏆 GitHub Achievements & Milestones
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75" alt="Pull Shark Gold" /><br />
+        <b>Pull Shark (Gold x4)</b><br />
+        <sub><b>1,024+ Merged PRs</b><br />Max Tier Achieved 🦈</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75" alt="Pair Extraordinaire Gold" /><br />
+        <b>Pair Extraordinaire (Gold x4)</b><br />
+        <sub><b>48+ Co-authored PRs</b><br />Max Tier Achieved 👥</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75" alt="Quickdraw" /><br />
+        <b>Quickdraw</b><br />
+        <sub>Lightning-fast Issue closure ⚡</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75" alt="YOLO" /><br />
+        <b>YOLO</b><br />
+        <sub>Fearless direct code merger 🚀</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Current Focus:** Building AI agent workflows, MCP servers, and developer tooling.
+```yaml
+name: Ensar (Enard)
+role: Full-Stack Developer & AI Systems Builder
+location: Türkiye 🇹🇷
+passions:
+  - Designing autonomous AI agents & Model Context Protocol (MCP) ecosystems
+  - Unified fintech architectures & modern payment pipelines
+  - Building crash-proof, type-safe open source libraries
+philosophy: "Clean architecture, resilient automation, and zero friction."
+```
+
+- 🔭 **Current Focus:** AI agent orchestration with MCP, multi-model platforms, and developer automation.
 - 💳 **Fintech & Payments:** Author of unified payment gateway solutions for Turkish providers (iyzico, PayTR, Parampos).
-- 💬 **Ask me about:** `TypeScript`, `Node.js`, `Python`, `AI Agents / MCP`, `Nuxt / Vue`, and `REST/GraphQL APIs`.
-- ⚡ **Philosophy:** Clean architecture, type-safety, and crash-proof open-source tools.
-- 📍 **Location:** Türkiye
+- 💬 **Ask me about:** `TypeScript`, `Node.js`, `Python`, `Nuxt / Vue 3`, `FastAPI`, `MCP Servers`, and `Distributed Workflows`.
+- ⚡ **Fun Fact:** Active contributor across global open-source ecosystems with over 1,000 merged PRs!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Arsenal
 
+<details open>
+<summary><b>💻 Languages & Core Runtimes</b></summary>
+<br />
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <br />
-  <!-- Frameworks & Runtimes -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2D8?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <br />
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+</details>
+
+<details open>
+<summary><b>⚡ Frameworks & Libraries</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2D8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI, Agentic Ecosystem & DevOps</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-6B21A8?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+</details>
 
 ---
 
 ### 🌟 Featured Open-Source Projects
 
-| Project | Description | Tech Stack | Live Stars |
-| :--- | :--- | :--- | :---: |
-| 🤖 **[Hivora](https://github.com/Enard52/Hivora)** | Multi-AI orchestrator platform for Claude Code, Cursor & GitHub Copilot with MCP. | `Electron` `TypeScript` `MCP` | [![Stars](https://img.shields.io/github/stars/Enard52/Hivora?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/Hivora/stargazers) |
-| 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source conversations for people and AI agents. | `Nuxt 4` `Vue 3` | [![Stars](https://img.shields.io/github/stars/Enard52/ghrew?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/ghrew/stargazers) |
-| 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TypeScript (iyzico, PayTR, Parampos). | `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/Enard52/better-payment?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/better-payment/stargazers) |
-| 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` | [![Stars](https://img.shields.io/github/stars/Enard52/market-data-sanity-checker?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/market-data-sanity-checker/stargazers) |
-| 📝 **[planning-with-files](https://github.com/Enard52/planning-with-files)** | Persistent file-based planning for AI coding agents and long-running tasks. | `Python` `Agentic AI` | [![Stars](https://img.shields.io/github/stars/Enard52/planning-with-files?style=flat-square&logo=github&color=blueviolet)](https://github.com/Enard52/planning-with-files/stargazers) |
+| Project | Description | Stack | Status |
+| :--- | :--- | :---: | :---: |
+| 🤖 **[Hivora](https://github.com/Enard52/Hivora)** | Multi-AI orchestrator platform for Claude Code, Cursor & Copilot with MCP integration. | `Electron` `TypeScript` `MCP` | [![Stars](https://img.shields.io/github/stars/Enard52/Hivora?style=flat-square&color=8B5CF6)](https://github.com/Enard52/Hivora) |
+| 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source collaborative hub for people and AI agents. | `Nuxt 4` `Vue 3` `Vite` | [![Stars](https://img.shields.io/github/stars/Enard52/ghrew?style=flat-square&color=8B5CF6)](https://github.com/Enard52/ghrew) |
+| 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TS: iyzico, PayTR, Parampos and Akbank. | `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/Enard52/better-payment?style=flat-square&color=8B5CF6)](https://github.com/Enard52/better-payment) |
+| 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` | [![Stars](https://img.shields.io/github/stars/Enard52/market-data-sanity-checker?style=flat-square&color=8B5CF6)](https://github.com/Enard52/market-data-sanity-checker) |
+| 📝 **[planning-with-files](https://github.com/Enard52/planning-with-files)** | Persistent file-based planning memory for AI coding agents and long-horizon tasks. | `Python` `Agentic AI` | [![Stars](https://img.shields.io/github/stars/Enard52/planning-with-files?style=flat-square&color=8B5CF6)](https://github.com/Enard52/planning-with-files) |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Enard's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Enard52&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=8b5cf6&icon_color=a855f7" alt="Enard's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=compact&theme=tokyonight&hide_border=true&title_color=8b5cf6" alt="Top Languages" width="49%" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=Enard52&theme=tokyonight&hide_border=true&ring=8b5cf6&fire=a855f7" alt="GitHub Streak" width="98%" />
+</div>
 
 ---
 
@@ -99,16 +168,7 @@ Maintaining open-source software takes substantial time, dedication, and server 
 
 ---
 
-### 🏆 Hall of Sponsors
-
-A huge thank you to everyone who supports my open-source projects!
-
-<!-- sponsors-start -->
-*Be the first sponsor to support my journey and have your avatar or company logo featured here!*
-<!-- sponsors-end -->
-
----
-
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/Enard52">Ensar (Enard)</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,25&height=90&section=footer" width="100%" alt="Footer" />
+  <sub>Designed & engineered with ❤️ by <a href="https://github.com/Enard52">Ensar (Enard)</a></sub>
 </div>
