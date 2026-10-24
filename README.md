@@ -79,7 +79,6 @@
 
 ### 👨‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
 
-- 🎓 **Education:** Studying **Web Design & Coding** at **Istanbul Gelişim University** 🏛️
 - 🔭 **Current Focus:** Building autonomous AI agent architectures, Model Context Protocol (MCP) tooling, and developer infrastructure.
 - 💳 **Fintech & Payments:** Author of unified payment gateway solutions for Turkish providers (iyzico, PayTR, Parampos).
 - 💬 **Ask Me About:** `TypeScript`, `Node.js`, `Python`, `Nuxt / Vue 3`, `FastAPI`, `MCP Servers`, and `Distributed Workflows`.
