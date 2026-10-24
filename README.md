@@ -31,59 +31,60 @@
 ### 🏆 GitHub Achievements & Milestones
 
 <div align="center">
-  <!-- Gold Tiers (Level x4) -->
-  <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="95" alt="Pull Shark Gold x4" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="95" alt="Pair Extraordinaire Gold x4" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="95" alt="Galaxy Brain Gold x4" />
-  </a>
-  <br />
-  <p align="center">
-    <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Pull%20Shark-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pull Shark Gold x4" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pair Extraordinaire Gold x4" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Galaxy%20Brain-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Galaxy Brain Gold x4" />
-    </a>
-  </p>
-  <br />
-  <!-- Special Action Achievements -->
-  <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="85" alt="Public Sponsor" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO" />
-  </a>
-  <br />
-  <p align="center">
-    <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Public%20Sponsor-Unlocked-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=1e1e2e" alt="Public Sponsor" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Quickdraw-Unlocked-F59E0B?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Quickdraw" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/YOLO-Unlocked-EC4899?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="YOLO" />
-    </a>
-  </p>
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td align="center" width="180" style="border: none; padding: 12px 16px;">
+        <a href="https://github.com/Enard52?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="90" height="90" alt="Pull Shark Gold x4" /><br />
+          <img src="https://img.shields.io/badge/Pull%20Shark-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pull Shark Gold x4" />
+        </a>
+      </td>
+      <td align="center" width="180" style="border: none; padding: 12px 16px;">
+        <a href="https://github.com/Enard52?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="90" height="90" alt="Pair Extraordinaire Gold x4" /><br />
+          <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pair Extraordinaire Gold x4" />
+        </a>
+      </td>
+      <td align="center" width="180" style="border: none; padding: 12px 16px;">
+        <a href="https://github.com/Enard52?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="90" height="90" alt="Galaxy Brain Gold x4" /><br />
+          <img src="https://img.shields.io/badge/Galaxy%20Brain-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Galaxy Brain Gold x4" />
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" width="180" style="border: none; padding: 12px 16px;">
+        <a href="https://github.com/Enard52?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="90" height="90" alt="Public Sponsor" /><br />
+          <img src="https://img.shields.io/badge/Public%20Sponsor-Unlocked-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=1e1e2e" alt="Public Sponsor" />
+        </a>
+      </td>
+      <td align="center" width="180" style="border: none; padding: 12px 16px;">
+        <a href="https://github.com/Enard52?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" height="90" alt="Quickdraw" /><br />
+          <img src="https://img.shields.io/badge/Quickdraw-Unlocked-F59E0B?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Quickdraw" />
+        </a>
+      </td>
+      <td align="center" width="180" style="border: none; padding: 12px 16px;">
+        <a href="https://github.com/Enard52?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" height="90" alt="YOLO" /><br />
+          <img src="https://img.shields.io/badge/YOLO-Unlocked-EC4899?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="YOLO" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enard52/Enard52/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enard52/Enard52/output/github-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Enard52/Enard52/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -101,6 +102,11 @@
 ---
 
 ### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,vue,nuxt,react,nextjs,fastapi,tailwind,electron,docker,githubactions,cloudflare,git,linux&theme=dark" alt="Tech Stack Icons" />
+</div>
+<br />
 
 <details open>
 <summary><b>💻 Languages & Core Runtimes</b></summary>
