@@ -32,19 +32,23 @@
 
 <div align="center">
   <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="95" alt="Pull Shark Gold x4" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="90" alt="Pull Shark Gold x4" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="95" alt="Pair Extraordinaire Gold x4" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="90" alt="Pair Extraordinaire Gold x4" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="90" alt="Galaxy Brain Gold x4" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Enard52?tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Enard52?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" />
   </a>
   <br /><br />
   <p align="center">
@@ -54,6 +58,10 @@
     &nbsp;&nbsp;
     <a href="https://github.com/Enard52?tab=achievements">
       <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pair Extraordinaire Gold x4" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Enard52?tab=achievements">
+      <img src="https://img.shields.io/badge/Galaxy%20Brain-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Galaxy Brain Gold x4" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/Enard52?tab=achievements">
