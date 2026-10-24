@@ -6,7 +6,7 @@
   <!-- Animated Typing Subtitle -->
   <p align="center">
     <a href="https://github.com/Enard52">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Open-Source+Creator;AI+Agent+%26+MCP+Tooling+Architect;Fintech+%26+Payment+Gateway+Engineer;1%2C000%2B+Merged+Pull+Requests+Completed" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Open-Source+Creator;AI+Agent+%26+MCP+Tooling+Architect;Fintech+%26+Payment+Gateway+Engineer;1%2C100%2B+Merged+Pull+Requests+Completed" alt="Typing SVG" />
     </a>
   </p>
 
@@ -77,7 +77,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
 
 - 🎓 **Education:** Studying **Web Design & Coding** at **Istanbul Gelişim University** 🏛️
 - 🔭 **Current Focus:** Building autonomous AI agent architectures, Model Context Protocol (MCP) tooling, and developer infrastructure.
@@ -85,7 +85,7 @@
 - 💬 **Ask Me About:** `TypeScript`, `Node.js`, `Python`, `Nuxt / Vue 3`, `FastAPI`, `MCP Servers`, and `Distributed Workflows`.
 - ⚡ **Engineering Philosophy:** Clean architecture, type-safety, resilient automation, and crash-proof open-source software.
 - 🌍 **Location:** Istanbul, Türkiye 🇹🇷
-- 🚀 **Milestone:** Prolific open-source contributor with **1,000+ Merged Pull Requests** across active repositories!
+- 🚀 **Milestone:** Prolific open-source contributor with **1,100+ Merged Pull Requests** across active repositories!
 
 ---
 
@@ -139,25 +139,33 @@
 
 ---
 
-### 🌟 Featured Open-Source Projects
+### 🌟 Featured Open-Source Repositories
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :---: | :---: |
-| 🛡️ **[AynOps](https://github.com/Enard52/AynOps)** | Open-source Model Context Protocol (MCP) server providing real-time AI security reconnaissance. | `TypeScript` `MCP` `Security` | [![Stars](https://img.shields.io/github/stars/Enard52/AynOps?style=flat-square&color=8B5CF6)](https://github.com/Enard52/AynOps) |
-| 💬 **[ghrew](https://github.com/Enard52/ghrew)** | Your crew on GitHub. Free, open-source collaborative hub for people and AI agents. | `Nuxt 4` `Vue 3` `Vite` | [![Stars](https://img.shields.io/github/stars/Enard52/ghrew?style=flat-square&color=8B5CF6)](https://github.com/Enard52/ghrew) |
-| 💳 **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TS: iyzico, PayTR, Parampos and Akbank. | `TypeScript` `Node.js` | [![Stars](https://img.shields.io/github/stars/Enard52/better-payment?style=flat-square&color=8B5CF6)](https://github.com/Enard52/better-payment) |
-| 📈 **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for financial market data: validate, score, and explain anomalies. | `TypeScript` `npm` | [![Stars](https://img.shields.io/github/stars/Enard52/market-data-sanity-checker?style=flat-square&color=8B5CF6)](https://github.com/Enard52/market-data-sanity-checker) |
-| 📝 **[planning-with-files](https://github.com/Enard52/planning-with-files)** | Persistent file-based planning memory for AI coding agents and long-horizon tasks. | `Python` `Agentic AI` | [![Stars](https://img.shields.io/github/stars/Enard52/planning-with-files?style=flat-square&color=8B5CF6)](https://github.com/Enard52/planning-with-files) |
+<div align="center">
+  <a href="https://github.com/Enard52/better-payment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=better-payment&theme=tokyonight&border_color=8b5cf6" alt="better-payment" width="49%" />
+  </a>
+  <a href="https://github.com/Enard52/AynOps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=AynOps&theme=tokyonight&border_color=8b5cf6" alt="AynOps" width="49%" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/Enard52/ci-stress-bench">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=ci-stress-bench&theme=tokyonight&border_color=8b5cf6" alt="ci-stress-bench" width="49%" />
+  </a>
+  <a href="https://github.com/Enard52/market-data-sanity-checker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=market-data-sanity-checker&theme=tokyonight&border_color=8b5cf6" alt="market-data-sanity-checker" width="49%" />
+  </a>
+</div>
 
 ---
 
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=false&hide_border=true&include_all_commits=true&title_color=8b5cf6&icon_color=a855f7" alt="Enard's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=compact&theme=tokyonight&hide_border=true&title_color=8b5cf6" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=false&hide_border=false&border_color=8b5cf6&include_all_commits=true&title_color=a855f7&icon_color=c084fc" alt="Enard's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=donut&theme=tokyonight&hide_border=false&border_color=8b5cf6&title_color=a855f7" alt="Top Languages" width="49%" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=Enard52&theme=tokyonight&hide_border=true&ring=8b5cf6&fire=a855f7" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Enard52&theme=tokyonight&hide_border=false&border=8b5cf6&stroke=8b5cf6&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" alt="GitHub Streak" width="98%" />
 </div>
 
 ---
