@@ -16,12 +16,12 @@
       <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
     </a>
     <a href="https://github.com/Enard52?tab=repositories">
-      <img src="https://img.shields.io/badge/Public%20Repos-100%2B-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEnard52&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=git&logoColor=white&color=7C3AED" alt="Repositories" />
     </a>
     <a href="https://github.com/Enard52?tab=followers">
-      <img src="https://img.shields.io/badge/Followers-Connect-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/Enard52?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&label=Followers" alt="Followers" />
     </a>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEnard52&label=Profile%20Views&labelColor=%231e1e2e&countColor=%238b5cf6&style=for-the-badge" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=Enard52&style=for-the-badge&color=8b5cf6&label=Profile%20Views" alt="Visitors" />
   </p>
 
 </div>
