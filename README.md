@@ -141,15 +141,15 @@
 ### 🌟 Featured Open-Source Repositories
 
 <div align="center">
+  <a href="https://github.com/Enard52/agent-security-guard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=agent-security-guard&theme=tokyonight&border_color=8b5cf6" alt="agent-security-guard" width="49%" />
+  </a>
   <a href="https://github.com/Enard52/better-payment">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=better-payment&theme=tokyonight&border_color=8b5cf6" alt="better-payment" width="49%" />
   </a>
+  <br /><br />
   <a href="https://github.com/Enard52/AynOps">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=AynOps&theme=tokyonight&border_color=8b5cf6" alt="AynOps" width="49%" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/Enard52/ci-stress-bench">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=ci-stress-bench&theme=tokyonight&border_color=8b5cf6" alt="ci-stress-bench" width="49%" />
   </a>
   <a href="https://github.com/Enard52/market-data-sanity-checker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=market-data-sanity-checker&theme=tokyonight&border_color=8b5cf6" alt="market-data-sanity-checker" width="49%" />
