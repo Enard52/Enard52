@@ -49,19 +49,19 @@
   <br /><br />
   <p align="center">
     <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Pull%20Shark-Gold%20(1%2C024%2B%20PRs)-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=24292e" alt="Pull Shark Gold x4" />
+      <img src="https://img.shields.io/badge/Pull%20Shark-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pull Shark Gold x4" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x4-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=24292e" alt="Pair Extraordinaire Gold x4" />
+      <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pair Extraordinaire Gold x4" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/Quickdraw-Unlocked-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Quickdraw" />
+      <img src="https://img.shields.io/badge/Quickdraw-Unlocked-F59E0B?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Quickdraw" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/Enard52?tab=achievements">
-      <img src="https://img.shields.io/badge/YOLO-Unlocked-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="YOLO" />
+      <img src="https://img.shields.io/badge/YOLO-Unlocked-EC4899?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="YOLO" />
     </a>
   </p>
 </div>
