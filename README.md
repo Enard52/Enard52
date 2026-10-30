@@ -140,30 +140,19 @@
 
 ### 🌟 Featured Projects & Ecosystem
 
-<div align="center">
-  <a href="https://github.com/Enard52/better-payment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=better-payment&theme=tokyonight&border_color=8b5cf6" alt="better-payment" width="49%" />
-  </a>
-  <a href="https://github.com/Enard52/ci-stress-bench">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=ci-stress-bench&theme=tokyonight&border_color=8b5cf6" alt="ci-stress-bench" width="49%" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/Enard52/AynOps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=AynOps&theme=tokyonight&border_color=8b5cf6" alt="AynOps" width="49%" />
-  </a>
-  <a href="https://github.com/Enard52/market-data-sanity-checker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enard52&repo=market-data-sanity-checker&theme=tokyonight&border_color=8b5cf6" alt="market-data-sanity-checker" width="49%" />
-  </a>
-</div>
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[NEXUS](https://github.com/Enard52/NEXUS)** ⭐ | Local-first smart home: direct LAN device control, desktop tray automations, built-in AI assistant. No hub, no vendor cloud. Windows · Linux · macOS · Android · iOS. [Download](https://github.com/Enard52/nexus-releases/releases/latest) | JavaScript, Electron, Capacitor |
+| **[better-payment](https://github.com/Enard52/better-payment)** | Unified, type-safe payment gateway for Node.js & TypeScript: one API for iyzico, PayTR, Parampos and Akbank. | TypeScript |
+| **[market-data-sanity-checker](https://github.com/Enard52/market-data-sanity-checker)** | Trust layer for market data: validate, score and explain anomalies in OHLCV, dividends, splits & fundamentals. CLI + TypeScript SDK. | TypeScript |
+| **[AynOps](https://github.com/Enard52/AynOps)** | Local MCP server that gives AI clients real-time cybersecurity reconnaissance capabilities. | Python |
+| **[ci-stress-bench](https://github.com/Enard52/ci-stress-bench)** | High-throughput CI/CD stress-testing benchmark and pipeline simulation engine for Git workflows. | — |
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enard52&show_icons=true&theme=tokyonight&count_private=false&hide_border=false&border_color=8b5cf6&include_all_commits=true&title_color=a855f7&icon_color=c084fc" alt="Enard's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enard52&layout=donut&theme=tokyonight&hide_border=false&border_color=8b5cf6&title_color=a855f7" alt="Top Languages" width="49%" />
-  <br /><br />
   <img src="https://streak-stats.demolab.com/?user=Enard52&theme=tokyonight&hide_border=false&border=8b5cf6&stroke=8b5cf6&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" alt="GitHub Streak" width="98%" />
 </div>
 
