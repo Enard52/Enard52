@@ -41,8 +41,8 @@
       </td>
       <td align="center" width="180" style="border: none; padding: 12px 16px;">
         <a href="https://github.com/Enard52?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="90" height="90" alt="Pair Extraordinaire Gold x4" /><br />
-          <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Gold%20x4-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pair Extraordinaire Gold x4" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" height="90" alt="Pair Extraordinaire Bronze x2" /><br />
+          <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Bronze%20x2-CD7F32?style=flat-square&logo=github&logoColor=white&labelColor=1e1e2e" alt="Pair Extraordinaire Bronze x2" />
         </a>
       </td>
       <td align="center" width="180" style="border: none; padding: 12px 16px;">
