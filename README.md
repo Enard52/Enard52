@@ -44,9 +44,9 @@
       </td>
       <td align="center" width="180" style="border: none; padding: 12px 16px;">
         <a href="https://github.com/Enard52?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" height="90" alt="Pair Extraordinaire Bronze x2" /><br />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="90" height="90" alt="Pair Extraordinaire Silver x3" /><br />
           <b>Pair Extraordinaire</b><br />
-          <sub>Bronze x2</sub>
+          <sub>Silver x3</sub>
         </a>
       </td>
       <td align="center" width="180" style="border: none; padding: 12px 16px;">
